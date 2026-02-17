@@ -122,7 +122,7 @@ Pipeline completo de análisis y preprocesamiento para clasificación de género
 
 ---
 
-## 📊 Habilidades Desarrolladas
+## Habilidades Desarrolladas
 
 Análisis exploratorio de datos (EDA)  
 Limpieza y preprocesamiento de datos  
