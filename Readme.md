@@ -8,7 +8,7 @@ Este repositorio contiene los proyectos desarrollados durante el curso de Fundam
 
 ---
 
-## 📂 Estructura del Repositorio
+## Estructura del Repositorio
 
 ```
 Nicolas_Ospina/
@@ -20,9 +20,9 @@ Nicolas_Ospina/
 
 ---
 
-## 🎯 Proyectos Realizados
+## Proyectos Realizados
 
-### 1️⃣ Semana 2: Análisis del Dataset Iris
+### Semana 2: Análisis del Dataset Iris
 **Archivo:** `sem02/ospina_nicolas_iris_analysis.py`
 
 Análisis exploratorio del clásico dataset Iris utilizando técnicas de visualización y reducción de dimensionalidad.
@@ -37,7 +37,7 @@ Análisis exploratorio del clásico dataset Iris utilizando técnicas de visuali
 
 ---
 
-### 2️⃣ Semana 3: Preprocesamiento de Datos Fintech
+### Semana 3: Preprocesamiento de Datos Fintech
 **Archivo:** `sem03/Fintech1000/lab_fintech_sintetico_2025_1000.py`
 
 Pipeline de preprocesamiento para datos sintéticos de empresas fintech, preparando los datos para modelos de machine learning.
@@ -54,7 +54,7 @@ Pipeline de preprocesamiento para datos sintéticos de empresas fintech, prepara
 
 ---
 
-### 3️⃣ Semana 4: EDA Completo - Dataset de Películas
+### Semana 4: EDA Completo - Dataset de Películas
 **Archivo:** `sem04/EDA-NicolasOspina.py`
 
 Análisis exploratorio exhaustivo de un dataset de películas con múltiples técnicas de preprocesamiento y visualización.
@@ -82,7 +82,7 @@ Análisis exploratorio exhaustivo de un dataset de películas con múltiples té
 
 ---
 
-### 4️⃣ Proyecto GTZAN: Clasificación de Géneros Musicales
+### Proyecto GTZAN: Clasificación de Géneros Musicales
 **Archivo:** `gtzan/Pipeline.py`
 
 Pipeline completo de análisis y preprocesamiento para clasificación de géneros musicales usando el dataset GTZAN.
@@ -111,7 +111,7 @@ Pipeline completo de análisis y preprocesamiento para clasificación de género
 
 ---
 
-## 🛠️ Tecnologías Utilizadas
+## Tecnologías Utilizadas
 
 - **Python 3.x**
 - **Análisis de datos:** pandas, numpy
@@ -124,20 +124,20 @@ Pipeline completo de análisis y preprocesamiento para clasificación de género
 
 ## 📊 Habilidades Desarrolladas
 
-✅ Análisis exploratorio de datos (EDA)  
-✅ Limpieza y preprocesamiento de datos  
-✅ Detección y manejo de outliers  
-✅ Feature engineering  
-✅ Técnicas de encoding (One-Hot, Label, Binary)  
-✅ Normalización y escalado de datos  
-✅ Reducción de dimensionalidad (PCA, t-SNE)  
-✅ Visualización de datos  
-✅ Procesamiento de señales de audio  
-✅ Análisis de correlaciones
+Análisis exploratorio de datos (EDA)  
+Limpieza y preprocesamiento de datos  
+Detección y manejo de outliers  
+Feature engineering  
+Técnicas de encoding (One-Hot, Label, Binary)  
+Normalización y escalado de datos  
+Reducción de dimensionalidad (PCA, t-SNE)  
+Visualización de datos  
+Procesamiento de señales de audio  
+Análisis de correlaciones
 
 ---
 
-## 🚀 Cómo Ejecutar los Proyectos
+## Cómo Ejecutar los Proyectos
 
 Cada proyecto puede ejecutarse de forma independiente:
 
@@ -162,7 +162,7 @@ python Pipeline.py
 
 ---
 
-## 📝 Notas
+## Notas
 
 - Todos los proyectos incluyen visualizaciones guardadas como archivos `.png` o `.jpg`
 - Los datasets procesados se exportan en formatos eficientes (CSV, Parquet)
